@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Words",
+"dataUrl": "Words-WebBuild.data.unityweb",
+"wasmCodeUrl": "Words-WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "Words-WebBuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#9A9999",
+"cacheControl": {"default": "must-revalidate"}
+}
